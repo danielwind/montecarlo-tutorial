@@ -63,8 +63,4 @@ export default class Montecarlo {
         }
         return false
     }
-
-    printInfo():void {
-        console.log(`Montecarlo Class Information: ${JSON.stringify({rounds: this.rounds, game: this.game, bet: this.bet})}`)
-    }
 }

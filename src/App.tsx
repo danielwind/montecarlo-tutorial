@@ -98,7 +98,7 @@ function App() {
 
   return (
     <div className="container-fluid">
-      <div className="container mt-5"><h2 className="text-center">American Roulette - Montecarlo Simulation</h2></div>
+      <div className="container mt-5"><h2 className="text-center">American Roulette Risk Model - Montecarlo Simulation</h2></div>
       <div className="mt-5 d-flex flex-column justify-content-center align-items-center">
 
         <div className="container d-flex flex-row justify-content-center align-items-center">
